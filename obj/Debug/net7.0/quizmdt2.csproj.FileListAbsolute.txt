@@ -1,0 +1,15 @@
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\bin\Debug\net7.0\quizmdt2.exe
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\bin\Debug\net7.0\quizmdt2.deps.json
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\bin\Debug\net7.0\quizmdt2.runtimeconfig.json
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\bin\Debug\net7.0\quizmdt2.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\bin\Debug\net7.0\quizmdt2.pdb
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.csproj.AssemblyReference.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.AssemblyInfoInputs.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.AssemblyInfo.cs
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\refint\quizmdt2.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.pdb
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\quizmdt2.genruntimeconfig.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\quizmdt2\obj\Debug\net7.0\ref\quizmdt2.dll
