@@ -1,4 +1,4 @@
-﻿namespace array{
+namespace array{
      
     
     class Program {
@@ -40,18 +40,11 @@
                         }
 
                     }else{
-                        if(isSpaceFree(area,int.Parse(area[input1-1]))  && isSpaceFree(area,int.Parse(area[input2-1]))){
-                            if( numReserved(area) +2  == amounts){
-                                Console.WriteLine("The entrance can’t be reserved.");  
-                            }else{
+                            
                                area[input1-1] = "X";
                                area[input2-1] = "X";
                                ShowArea(area);
-                            }
-                       
-                        }else{
-                              Console.WriteLine("The stall is reserved.");  
-                        }
+                        
                     }
 
                     if (CheckIfAllReserved(area,amounts)){
@@ -97,7 +90,7 @@
         }
 
         static private bool isSpaceFree(string[] area,int num){
-            return !(area[num] == "X");
+            return (area[num] != "X");
         }
 
         static private int numReserved(string[] area){
