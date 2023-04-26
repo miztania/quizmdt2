@@ -18,7 +18,7 @@
                     int input2 = int.Parse(Console.ReadLine());
                    
 
-                    if((input1 == 0 || input2 == 0) && (input1 < 0 || input2 < 0)){
+                    if((input1 == 0 || input2 == 0) || (input1 < 0 || input2 < 0)){
                         if(isSpaceFree(area,CheckNumValid(input1,input2)-1)){
                               area[CheckNumValid(input1,input2) - 1] = "X";
                               ShowArea(area);
