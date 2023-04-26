@@ -40,10 +40,19 @@ namespace array{
                         }
 
                     }else{
-                            
-                               area[input1-1] = "X";
-                               area[input2-1] = "X";
-                               ShowArea(area);
+                            if(isSpaceFree(area,input1-1) && isSpaceFree(area,input2-1)){
+                                if( numReserved(area) + 2 == amounts ){
+                                    Console.WriteLine("The entrance can’t be reserved."); 
+                                }else{
+                                    area[input1-1] = "X";
+                                    area[input2-1] = "X";
+                                    ShowArea(area);
+                                }
+                          
+                            }else{
+                                 Console.WriteLine("The stall is reserved.");  
+                            }
+                              
                         
                     }
 
